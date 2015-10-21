@@ -1,5 +1,12 @@
+.header {
+    background-color: #424242;
+}
+.header h1 {
+    color: white;
+}
+
 .jumbotron {
-    background-image: url("http://i.imgur.com/rPaUDmQ.png");
+    background-image: url("http://i.imgur.com/Iz9f7qo.png");
     height: 500px;
 }
 .jumbotron h2 {
@@ -7,4 +14,12 @@
 }
 .jumbotron p {
     color:white;
+}
+
+.about {
+    background-color: #424242;
+}
+
+.examples {
+    background-color: #585858;
 }
