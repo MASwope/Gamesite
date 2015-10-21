@@ -1,15 +1,17 @@
 
-.n {
+.navbar {
     border-bottom-style: solid;
+    padding-left: 10%;
     margin: 0;
 }
-.n h1 {
+.navbar h1 {
     font-family: 'Shift', sans-serif;
     font-weight: bold;
 }
 
 .jumbotron {
     background-image: url("http://i.imgur.com/Iz9f7qo.png");
+    float: right;
     height: 500px;
     color: white;
     
