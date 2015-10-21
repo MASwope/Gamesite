@@ -1,9 +1,9 @@
 
-.nav {
+.navbar {
     border-bottom-style: solid;
     margin: 0;
 }
-.nav h1 {
+.navbar h1 {
     font-family: 'Shift', sans-serif;
     font-weight: bold;
 }
