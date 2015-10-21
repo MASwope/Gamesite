@@ -1,7 +1,7 @@
 .jumbotron {
     background-image: url("http://i.imgur.com/rPaUDmQ.png");
+    height: 500px;
 }
-
 .jumbotron h2 {
     color:white;
 }
