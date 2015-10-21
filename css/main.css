@@ -1,32 +1,44 @@
 
 .header {
     background-color: #e6a031;
+    
     border-bottom-style: solid;
     border-color: black;
     border-width: 5px;
-    margin: 0px;
+    
+    margin: 0;
+    padding-left: 10px;
 }
 
 .jumbotron {
     background-image: url("http://i.imgur.com/Iz9f7qo.png");
     height: 500px;
     color: white;
+    
     border-bottom-style: solid;
     border-color: black;
     border-width: 5px;
-    margin: 0px;
+    
+    margin: 0;
+    padding-top: 25%;
+    padding-left: 10px;
 }
 
 .about {
     background-color: #e6a031;
+    
     border-bottom-style: solid;
     border-color: black;
     border-width: 5px;
-    margin: 0px;
+    
+    margin: 0;
+    padding-left: 10px;
 }
 
 .examples {
     background-color: #585858;
     color:white;
-    margin: 0px;
+    
+    margin: 0;
+    padding-left: 10px;
 }
