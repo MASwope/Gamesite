@@ -1,25 +1,29 @@
 
 .header {
     background-color: #1C1C1C;
-    padding: 0px;
     color: white;
+    border-style: solid;
+    border-width: 5px;
+    margin: 0px;
 }
 
 .jumbotron {
     background-image: url("http://i.imgur.com/Iz9f7qo.png");
     height: 500px;
-    padding: 0px;
     color: white;
+    margin: 0px;
 }
 
 .about {
     background-color: #1C1C1C;
-    padding: 0px;
     color: white;
+    border-style: solid;
+    border-width: 5px;
+    margin: 0px;
 }
 
 .examples {
     background-color: #585858;
-    padding: 0px;
     color:white;
+    margin: 0px;
 }
