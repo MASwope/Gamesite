@@ -1,10 +1,9 @@
 
-.navbar {
+.navbar .container {
     border-bottom-style: solid;
-    text-align: center;
     margin: 0;
 }
-.navbar h1 {
+.navbar .container h1 {
     font-family: 'Shift', sans-serif;
     font-weight: bold;
 }
