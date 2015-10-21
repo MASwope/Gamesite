@@ -1,12 +1,9 @@
 
-body {
-    border-color: black;
-}
-
 .header {
     background-color: #1C1C1C;
     color: white;
-    border-style: solid;
+    border-bottom-style: solid;
+    border-color: black;
     border-width: 5px;
     margin: 0px;
 }
@@ -15,13 +12,17 @@ body {
     background-image: url("http://i.imgur.com/Iz9f7qo.png");
     height: 500px;
     color: white;
+    border-bottom-style: solid;
+    border-color: black;
+    border-width: 5px;
     margin: 0px;
 }
 
 .about {
     background-color: #1C1C1C;
     color: white;
-    border-style: solid;
+    border-bottom-style: solid;
+    border-color: black;
     border-width: 5px;
     margin: 0px;
 }
