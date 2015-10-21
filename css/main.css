@@ -1,3 +1,10 @@
 .jumbotron {
     background-image: url("http://i.imgur.com/rPaUDmQ.png");
 }
+
+.jumbotron h2 {
+    color:white;
+}
+.jumbotron p {
+    color:white;
+}
