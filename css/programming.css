@@ -6,6 +6,7 @@
 }
 
 .notes li {
+    list-style-position:inside;
     border-radius: 4px;
     padding: 9px;
     background-color: white;
