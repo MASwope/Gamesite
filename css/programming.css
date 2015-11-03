@@ -1,11 +1,7 @@
-.ol {
+ol {
     border-bottom-style: solid;
-    border-color: black;
-    border-width: 1px;
 }
 
-.ul {
+ul {
     border-bottom-style: solid;
-    border-color: black;
-    border-width: 1px;
 }
