@@ -1,3 +1,5 @@
-li {
+.notes li {
     border-bottom-style: solid;
+    border-width: 1px;
+    border-color: #0052CC;
 }
