@@ -1,3 +1,7 @@
+body {
+    background-image: url("http://p1.pichost.me/i/64/1886508.jpg");
+}
+
 .notes {
     border-radius: 4px;
     padding: 9px;
@@ -6,7 +10,7 @@
 }
 
 .notes li {
-    list-style-position:inside;
+    list-style-position: inside;
     border-radius: 4px;
     padding: 9px;
     background-color: white;
