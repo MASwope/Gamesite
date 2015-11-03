@@ -1,5 +1,4 @@
 .notes li {
-    border-left-style: solid;
-    border-width: 1px;
-    border-color: black;
+    padding: 9px;
+    border: 1px solid #e1e1e8
 }
