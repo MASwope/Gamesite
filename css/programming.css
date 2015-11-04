@@ -6,10 +6,16 @@ body {
     text-shadow: 2px 2px 8px #787878;
 }
 
-body {
+.intro {
+    border: 1px solid #AEAEAE;
+    border-radius: 4px;
+    background-color: #E4E4E4;
+}
+
+.notes {
     color: white;
 }
 
-a {
+.notes a {
     color: #E4E4E4;
 }
