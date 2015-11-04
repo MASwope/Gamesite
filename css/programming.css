@@ -7,15 +7,19 @@ body {
 }
 
 .intro {
-    border: 1px solid #AEAEAE;
-    border-radius: 4px;
     background-color: #E4E4E4;
-}
-
-.notes {
-    color: white;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color:#AEAEAE;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
 }
 
 .notes a {
     color: #E4E4E4;
+}
+
+.notes .container {
+    background-color: #E4E4E4;
+    border: 1px solid #AEAEAE;
 }
