@@ -15,11 +15,9 @@ body {
     border-bottom-right-radius: 4px;
 }
 
-.notes a {
-    color: #E4E4E4;
-}
-
 .notes .container {
+    margin-top: 30px;
     background-color: #E4E4E4;
     border: 1px solid #AEAEAE;
+    border-radius: 4px;
 }
