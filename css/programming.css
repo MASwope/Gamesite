@@ -6,25 +6,10 @@ body {
     text-shadow: 2px 2px 8px #787878;
 }
 
-.intro {
+body {
     color: white;
 }
 
-.intro a {
+a {
     color: #E4E4E4;
-}
-
-.notes .container {
-    border-radius: 4px;
-    padding: 9px;
-    background-color: #f7f7f9;
-    border: 1px solid #282828;
-}
-
-.notes li {
-    list-style-position: inside;
-    border-radius: 4px;
-    padding: 9px;
-    background-color: white;
-    border: 1px solid #282828;
 }
