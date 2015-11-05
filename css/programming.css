@@ -1,4 +1,5 @@
 body {
+    height: 100%;
     background-image: url("programming.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
