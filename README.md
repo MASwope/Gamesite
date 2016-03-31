@@ -1,2 +1,2 @@
-# ajdepaul.github.io
-My personal website
+# gamesite.github.io
+Game website
